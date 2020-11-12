@@ -37,7 +37,7 @@ end
 
 def play(board)
   turn = "X"
-  until turn == ("X", "X", "X", "X", "X", "X", "X", "X", "X")
+  until turn == " "
     counter += 1
   end
 end
