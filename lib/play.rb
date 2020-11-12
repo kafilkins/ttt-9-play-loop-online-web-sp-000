@@ -39,6 +39,6 @@ def play(board)
   turn = 9
   until turn == 9
     puts "X"
-    turn += 1
+    turn += "X"
   end
 end
